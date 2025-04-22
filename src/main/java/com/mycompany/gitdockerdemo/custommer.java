@@ -9,5 +9,7 @@ package com.mycompany.gitdockerdemo;
  * @author Hieu
  */
 public class custommer {
-    
+    public static void main(String[] args) {
+        System.out.println("helo cac ban");
+    }
 }
